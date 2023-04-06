@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android Development, both app and platform
 - 🌱 I’m currently learning Data Structures and Algorithms, Android app development using the modern Jetpack Compose toolkit
 - 💞️ I’m looking to collaborate on some interesting community android projects
-- 📫 How to reach me - Twitter: @anuragx17
+- 📫 How to reach me - Twitter: @anuragxone
 - 👀 Looking forward to contribute to AOSP one day
 
 <!---
