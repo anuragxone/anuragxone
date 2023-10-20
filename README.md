@@ -5,6 +5,9 @@
 - 📫 How to reach me - Twitter: @anuragxone
 - 👀 Looking forward to contribute to AOSP one day
 
+[![An image of @anuragxone's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anuragxone)](https://holopin.io/@anuragxone)
+
+
 <!---
 anuragxone/anuragxone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
